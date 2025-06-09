@@ -1,3 +1,5 @@
+ÅÄÖ åäö
+
 🏡 Getting Started with Lands
 Welcome to the Lands system! This guide will help you claim and manage your own territory on the Elderheim Survival Server. Whether you're a solo builder or leading a town, this plugin gives you full control over your land.
 
